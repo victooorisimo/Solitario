@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\vict_\source\repos\Solitary_Victor_Hernandez_1301219\Solitary_Victor_Hernandez_1301219\MyForm.cpp(6,33): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Card.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Solitary_Victor_Hernandez_1301219.vcxproj -> C:\Users\vict_\source\repos\Solitary_Victor_Hernandez_1301219\Debug\Solitary_Victor_Hernandez_1301219.exe
